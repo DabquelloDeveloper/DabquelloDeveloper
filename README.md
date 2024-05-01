@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello, I'm Albert White! 👋
 
-<!--
-**DabquelloDeveloper/DabquelloDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student of Python, Developer (in free times) and Game making . 🚀 Currently, I'm navigating my Python course at school and delving into the depths of HTML in my free time.
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
+- Python (at school 🏫) 
+- Developer (in free times 💻)
+- Game Making (in my free time 🎮) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies and Tools
+- Python 
+- Html / Css/ Js
+- C#
+  
